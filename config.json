@@ -58,7 +58,7 @@
       "name": "魔都资源"
     },
     "zuid": {
-      "api": "https://api.zuidazy.co/api.php/provide/vod",
+      "api": "https://zuidazy.co/api.php/provide/vod",
       "name": "最大资源"
     },
     "yinghua": {
